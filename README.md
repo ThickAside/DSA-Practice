@@ -7,8 +7,13 @@ Collection of Java solutions for data structures and algorithms problems.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThickAside/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ThickAside/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThickAside/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ThickAside/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
